@@ -1,0 +1,79 @@
+@font-face {
+	font-family: 'Pulsar - Original'; 
+	src: url(/fonts/pulsar-original.otf); 
+}
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'Roboto';
+}
+body{
+    background-color: #141C24;
+}
+header{
+    background-color: #141C24;
+    padding-top: 3.27vw;
+    display: flex;
+}
+.icon-img{
+    width: 2.29vw;
+}
+a{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+.header-p{
+    color: #FFFFFF;
+    font-family: 'Pulsar - Original';
+    margin-left: 1.18vw;
+    font-size: 24px;
+
+
+}
+.warplay{
+    display: flex;
+    margin-left: 7.847vw;
+    padding-bottom: 3.402vw;
+
+}
+.navigation{
+    display: flex;
+    justify-content: space-between;
+    width: 62.5vw;
+    margin-left: 7.36vw;
+}
+.head-img{
+    width: 92vw;
+    height: 53.95vw;
+    background-image: url("img/background1.png");
+    background-position: 100% 0%;
+    margin: 0px auto;
+    text-align: center;
+}
+.img-p{
+    padding-top: 26.875vw;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 500;
+}
+.img-h{
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 3.33vw;
+}
+a.img-btn{
+    color: black;
+    font-family: 'Pulsar - Original';
+    font-size: 1.66vw;
+    position: absolute;
+    left: 46.73vw;
+    top: 42.2vw;
+                              
+}
+.btn{
+    background-color: #FFFFFF;
+    width: 17.4vw;
+    height: 4.236vw;
+    margin: 0 auto;
+}
+
